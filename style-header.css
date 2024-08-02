@@ -1,4 +1,4 @@
-.header{
+.header,.footer{
     background: hsl(215, 28%, 17%);
     padding: 0px 150px;
 
@@ -68,4 +68,11 @@ a {
 
 body{
     margin: 0px;
+}
+
+
+.footer{
+    padding: 30px 0px ;
+    text-align: center;
+    color: #f9faf8;
 }

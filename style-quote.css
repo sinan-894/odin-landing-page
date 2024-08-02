@@ -1,15 +1,21 @@
 .quote{
     background-color: #e5e7eb;
+    padding: 100px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .quote-text{
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    margin: 0px;
 }
 
 .quote-author{
     font-size:18px;
     font-weight: 900;
     color: #1f2937;
+    align-self: self-end;
 }

@@ -2,4 +2,35 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 75px 200px;
+}
+
+
+.message-box{
+    background-color: #3882f6;
+    display: flex;
+    width: 100%;
+    padding: 50px 100px;
+    border-radius: 8px;
+    justify-content: space-between;
+    color: #f9FAF8;
+    font-size: 18px;
+
+
+}
+
+.message-box-header{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.sign-up-bottom{
+    border-color: #f9FAF8;
+    border-radius: 5px;
+    color:  #f9FAF8 ;
+    background-color: #3882f6;
+    border-width: 1px;
+    width: 100px;
+    font-weight: 700;
+    height: 30px;
 }
